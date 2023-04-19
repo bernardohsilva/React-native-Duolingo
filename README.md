@@ -6,6 +6,7 @@ Instruções para execução
 Instale as dependências:
 
 npm i -g expo-cli
+
 npm install git
 
 Crie o projeto:
